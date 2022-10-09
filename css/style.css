@@ -81,3 +81,11 @@ h2, p {
 .dropdown:hover .dropbtn {
   background-color: #3e8e41;
 }
+article {
+  color: #f1f1f1;
+  text-align: center;
+  width: 60%;
+  padding: 20px;
+  margin-right: auto;
+  line-height: normal;
+}
