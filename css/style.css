@@ -11,7 +11,8 @@ body {
   -o-background-size: cover;
   background-size: cover;
 }
-.header__title {
+.header__title,
+.header__img {
   width: 30%;
   padding: 0;
   margin-right: 50px;
@@ -32,12 +33,11 @@ a {
   color: white;
   font-size: 1 rem;
 }
-.header__menu {
+.menu {
   display: flex;
   padding: 20px;
 }
-.header__item{
-
+.menu__item{
   padding: 0 2% 0 0;
   transition: 0.5s;
 } 
